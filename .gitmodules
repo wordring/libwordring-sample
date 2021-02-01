@@ -1,0 +1,3 @@
+[submodule "libwordring"]
+	path = libwordring
+	url = https://github.com/wordring/libwordring.git

@@ -1,0 +1,53 @@
+
+body {
+    color: #505050;
+    padding: 1em;
+}
+
+h2 {
+    color: #6594e0;
+  border-bottom: dashed 2px #6594e0;
+  margin-top: 2em;
+}
+
+h3 {
+  padding: 0.1em 0.5em;
+  margin-top: 2em;
+  color: #494949;
+  background: transparent;
+  border-left: solid 5px #7db4e6;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-width: 0;
+
+}
+
+table caption {
+  font-weight: bold;
+}
+
+table th {
+  background-color: #fff;
+}
+
+table tr:nth-child(odd) {
+  background-color: #f0f5f5;
+}
+
+table th, table td {
+  padding: 0.5em 0.5em;
+  border-color: #cfcdcc;
+}
+
+.cpp .kw {
+  color: blue;
+}
+
+.cpp .tn {
+  color: cadetblue;
+}
+
