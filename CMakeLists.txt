@@ -8,4 +8,4 @@ cmake_minimum_required (VERSION 3.12)
 project("libwordring-sample")
 
 add_subdirectory("libwordring")
-add_subdirectory("sample/html/crawl")
+add_subdirectory("sample/html/crawl-1")

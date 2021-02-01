@@ -1,10 +1,10 @@
-﻿# sample/html/clawl
+﻿# sample/html/clawl-1
 #
-# このプロジェクトは clawl サンプルを作成します。
+# このプロジェクトは clawl-1 サンプルを作成します。
 
 cmake_minimum_required (VERSION 3.12)
 
-project("html-clawl-sample")
+project("clawl-1")
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
