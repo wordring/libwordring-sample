@@ -1,7 +1,7 @@
 ﻿libwordring-sample
 ====
 
-libwordring を使ったサンプル集です。
+libwordring を使うサンプル集です。
 
 ## libwordring をサブモジュールとして CMake で使う
 

@@ -31,7 +31,7 @@ int main(int argc, char** argv)
 	css::query_selector_all(doc.begin(), u8"body [href]", std::back_inserter(v));
 
 	// リンクを表示します。
-	for (auto np : v) std::cout << np->find(u8"href")->value() << std::endl;
+	for (auto it : v) std::cout << it->find(u8"href")->value() << std::endl;
 
 	return 0;
 }
